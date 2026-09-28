@@ -1,0 +1,6 @@
+{
+  "name": "POUSADA PMS — Sistema Integrado de Gestão de Pousadas",
+  "description": "Sistema profissional, modular e robusto de gestão de pousadas (PMS), com operação offline-first, reservas, calendário interativo, governança, financeiro e auditoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
